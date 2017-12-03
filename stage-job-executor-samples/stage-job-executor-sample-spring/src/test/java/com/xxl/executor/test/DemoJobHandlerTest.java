@@ -34,7 +34,7 @@ public class DemoJobHandlerTest {
 
         // do remote trigger
         String accessToken = null;
-        ExecutorBiz executorBiz = (ExecutorBiz) new NetComClientProxy(ExecutorBiz.class, "127.0.0.1:8080", null).getObject();
+        ExecutorBiz executorBiz = (ExecutorBiz) new NetComClientProxy(ExecutorBiz.class, "127.0.0.1:8080/stage-job", null).getObject();
         ReturnT<String> runResult = executorBiz.run(triggerParam);
     }
 

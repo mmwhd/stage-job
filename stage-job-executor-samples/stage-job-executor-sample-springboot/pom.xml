@@ -69,7 +69,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- xxl-job-core -->
+        <!-- stage-job-core -->
         <dependency>
             <groupId>com.hayden</groupId>
             <artifactId>stage-job-core</artifactId>

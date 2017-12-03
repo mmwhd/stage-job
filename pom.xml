@@ -88,16 +88,16 @@
 
 	<scm>
 		<tag>master</tag>
-		<url>https://github.com/hayden/xxl-job.git</url>
-		<connection>scm:git:https://github.com/hayden/xxl-job.git</connection>
-		<developerConnection>scm:git:git@github.com:hayden/xxl-job.git</developerConnection>
+		<url>https://github.com/mmwhd/stage-job.git</url>
+		<connection>scm:git:https://github.com/mmwhd/stage-job.git</connection>
+		<developerConnection>scm:git:git@github.com:mmwhd/stage-job.git</developerConnection>
 	</scm>
 	<developers>
 		<developer>
-			<id>XXL</id>
+			<id>HAYDEN</id>
 			<name>hayden</name>
-			<email>931591021@qq.com</email>
-			<url>https://github.com/hayden</url>
+			<email>24130395@qq.com</email>
+			<url>https://github.com/mmwhd</url>
 		</developer>
 	</developers>
 

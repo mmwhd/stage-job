@@ -28,13 +28,13 @@
 		<!-- Main content -->
 		<section class="content">
 			<div class="callout callout-info">
-				<h4>分布式任务调度平台XXL-JOB</h4>
+				<h4>分布式任务调度平台STAGE-JOB</h4>
 				<br>
 				<p>
-					<a target="_blank" href="https://github.com/hayden/xxl-job">github</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<iframe src="https://ghbtns.com/github-btn.html?user=hayden&repo=xxl-job&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="margin-bottom:-5px;"></iframe>
+					<a target="_blank" href="https://github.com/mmwhd/stage-job">github</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<iframe src="https://ghbtns.com/github-btn.html?user=hayden&repo=stage-job&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="margin-bottom:-5px;"></iframe>
 					<br><br>
-                    <a target="_blank" href="http://www.hayden.com/xxl-job/">文档地址</a>
+                    <a target="_blank" href="http://wiki.hayden.wang">文档地址</a>
                     <br><br>
 
 				</p>
